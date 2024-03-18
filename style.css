@@ -1,0 +1,14 @@
+
+body {
+    background-color: rgb(255, 243, 199);
+}
+.heading{
+    background-color: rgb(254, 199, 180);
+}
+h1 {
+    color: #333;
+}
+.contact-details {
+    text-align: right;
+    color: #555;
+}
